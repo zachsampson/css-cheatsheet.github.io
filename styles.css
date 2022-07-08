@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(232, 228, 219);
+    color: rgb(25, 24, 30);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    text-transform: uppercase;
+}
+h2 {
+    font-weight: lighter;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    color:rgb(99, 72, 39)
+}
+table {
+    border:rgb(99, 72, 39) 2px solid;
+}
+thead {
+    font-size: 1em;
+    text-transform: lowercase;
+    background-color: rgba(228, 158, 54, 0.402);
+    padding: 5px;
+}
+th {
+    padding: 6px;
+    color: rgb(99, 72, 39)
+}
+tbody {
+    font-size: .8em;
+}
+td { 
+    padding: 6px;
+    font-size: .9em;
+    line-height: 1.4em;
+}
+.border td {
+    border-bottom: rgb(99, 72, 39) 1px solid;
+}
+.code {
+    font-family: "Lucida Console", Courier, monospace;
+    width: 150px;
+    padding-left: 10px;
+    color: rgba(0, 59, 195, 0.995)
+}
+.codecolor {
+    color:brown
+}
